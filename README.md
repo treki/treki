@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @treki
 - 👀 I’m interested in ...Game Development
-- 🌱 I’m currently learning ...C#
+- 🌱 I’m currently learning ...Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... treki716@gmail.com
 
