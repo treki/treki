@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @treki
+- 👋 Hi, I’m Tuya Senff @treki
 - 👀 I’m interested in ...Game Development
-- 🌱 I’m currently learning ...Javascript
+- 🌱 I’m currently learning ...VueJS
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... treki716@gmail.com
+- 📫 How to reach me ... tuya.senff@gmail.com
 
 <!---
 treki/treki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
