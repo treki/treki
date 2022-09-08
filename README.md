@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tuya Senff @treki
-- 👀 I’m interested in ...Game Development/ Front-end /Fullstack
+- 👀 I’m a software developer 
 - 🌱 I’m currently working on a cool project
 - 💞️ Love to code
 - 📫 How to reach me ... tuya.senff@gmail.com
